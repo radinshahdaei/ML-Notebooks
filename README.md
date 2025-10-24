@@ -1,6 +1,6 @@
 # ML Notebooks
 
-This repository contains notable Jupyter notebooks I have completed as assignments or projects in machine learning.
+This repository contains notable Jupyter notebooks I have completed as assignments or projects.
 
 ## Classical Machine Learning
 - `Regression.ipynb`,  `Classification.ipynb` – Classical supervised methods.
